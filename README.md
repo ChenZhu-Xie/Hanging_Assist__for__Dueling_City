@@ -19,7 +19,7 @@
     * Multiple accounts (automatically switching to the next account after winning a certain number of matches)
     * Automatic matching: Players, NPCs
     * Anti-disconnection: Reconnection mechanism
-    * stackable record: Every time the program is closed, output the profit table for this hang up to the log rulesjd.ini
+    * Stackable record: Every time the program is closed, output the profit table for this hang up to the log rulesjd.ini
 
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/master/img/收益情况.png "Hang-up Revenue")
 
