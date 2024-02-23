@@ -6,7 +6,7 @@
 ## 关于
 * 该仓库 👉 [模拟器端「决斗之城」挂机助手](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
     * 属于创造 ⊶ 👉[本科 创造](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations)
-        * 属于生涯 ⊂ 👉[「决斗之城」挂机助手](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
+        * 属于生涯 ⊂ 👉[本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
     * 采用语言 ⊷ 👉[易语言](https://www.eyuyan.com)
         * 也被项目采用 ⊶ 👉[星尘弹弹堂「全平台辅助」](https://gitee.com/ChenZhu-Xie/Stardust_DDTank)
 * English「README」ⓔ 👉 [The emulator end「Hang-up Assist」for Game「Dueling City」](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
