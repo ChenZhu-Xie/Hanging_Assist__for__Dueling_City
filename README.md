@@ -18,6 +18,7 @@
 * Feature
     * Multiple accounts (automatically switching to the next account after winning a certain number of matches)
     * Automatic matching: Players, NPCs
+    * View program stages: Real time understanding of what software is doing
     * Anti-disconnection: Reconnection mechanism
     * Stackable record: Every time the program is closed, output the profit table for this hang up to the log rulesjd.ini
 

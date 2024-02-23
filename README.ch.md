@@ -19,8 +19,9 @@
 * 特点
     * 多账号（赢一定场次 自动切换下一个账号）
     * 自动匹配：玩家、NPC
+    * 查看程序阶段：实时了解辅助正在做什么
     * 防掉线：断线自动重连机制
-    * 可叠加记录：每次关闭程序，输出本次挂机收益表到日志 rulesjd.ini
+    * 叠加记录：每次关闭程序，输出本次挂机收益表到日志 rulesjd.ini
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/master/img/收益情况.png "Hang-up Revenue") -->
 ![fig](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/raw/master/img/收益情况.png "挂机一晚上 收益情况")
