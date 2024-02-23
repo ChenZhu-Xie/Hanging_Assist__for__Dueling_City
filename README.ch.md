@@ -14,8 +14,12 @@
 ## 介绍
 * 模拟器端「决斗之城」——「山寨 游戏王」的「挂机助手」
     * 适配[「夜神模拟器」](https://www.yeshen.com/)
-    * 抓图 似乎是 像素级的，不够鲁棒
-    * 个人更改分辨率，或者 官方更新图标 后，可能不适用
+        * 抓图 似乎是 像素级的，不够鲁棒
+        * 个人更改分辨率，或者 官方更新图标 后，可能不适用
+* 特点
+    * 多账号（赢一定场次 自动切换下一个账号）
+    * 自动匹配：玩家、NPC
+    * 防掉线
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/master/img/收益情况.png "Hang-up Revenue") -->
 ![fig](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/raw/master/img/收益情况.png "挂机一晚上 收益情况")

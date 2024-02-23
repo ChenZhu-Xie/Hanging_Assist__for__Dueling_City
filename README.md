@@ -13,8 +13,12 @@
 ## Description
 * The emulator end「Hang-up Assist」for Game「Dueling City」——「Knock-off Yu-Gi-Oh」
     * Adapted to the[「Night God Simulator」](https://www.yeshen.com/)
-    * The capture seems to be pixel level, not robust enough
-    * May not be applicable if「Personal resolution changes」or「official icon updates」 
+        * The capture seems to be pixel level, not robust enough
+        * May not be applicable if「Personal resolution changes」or「official icon updates」
+* Feature
+    * Multiple accounts (automatically switching to the next account after winning a certain number of matches)
+    * Automatic matching: Players, NPCs
+    * Anti-disconnection
 
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/master/img/收益情况.png "Hang-up Revenue")
 
