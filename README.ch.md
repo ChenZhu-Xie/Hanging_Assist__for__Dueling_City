@@ -1,7 +1,7 @@
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/master/img/软件界面.png "「Hang-up Assist」for Game「Dueling City」") -->
 ![fig](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/raw/master/img/软件界面.png "决斗之城 辅助软件 界面")
 
-# 决斗之城 挂机辅助
+# [「决斗之城」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)挂机辅助
 
 ## 关于
 * 该仓库 👉 [模拟器端「决斗之城」挂机助手](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
@@ -12,7 +12,7 @@
 * English「README」ⓔ 👉 [The emulator end「Hang-up Assist」for Game「Dueling City」](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
 
 ## 介绍
-* 模拟器端「决斗之城」——「山寨 游戏王」的「挂机助手」
+* 模拟器端[「决斗之城」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)——「山寨 游戏王」的「挂机助手」
     * 适配[「夜神模拟器」](https://www.yeshen.com/)
     * 抓图 似乎是 像素级的，不够鲁棒
     * 个人更改分辨率，或者 官方更新图标 后，可能不适用
