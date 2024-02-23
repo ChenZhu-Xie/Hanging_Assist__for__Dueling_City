@@ -7,7 +7,7 @@
     * Belongs to creation ⊷ 👉[undergraduate creations](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations)
         * Belongs to career ⊂ 👉[undergraduate activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
     * Adopt language ⊷ 👉[「EPL - Easier Programming Language」](https://www.eyuyan.com)
-        * Also adopted by project ⊶ 👉[Stardust DDTank](https://github.com/ChenZhu-Xie/Stardust_DDTank)
+        * Also adopted by project ⊶ 👉[Stardust Multi-terminal DDTank Auxiliary-tools](https://github.com/ChenZhu-Xie/Stardust_DDTank)
 * 中文「自述文档」㊥ 👉 [本科 活动](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
 
 ## Description
