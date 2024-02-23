@@ -1,5 +1,5 @@
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/master/img/软件界面.png "「Hang-up Assist」for Game「Dueling City」") -->
-![fig](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/raw/master/img/软件界面.jpg "决斗之城 辅助软件 界面")
+![fig](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/raw/master/img/软件界面.png "决斗之城 辅助软件 界面")
 
 # 决斗之城 挂机辅助
 
