@@ -4,12 +4,12 @@
 # [「决斗之城」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)挂机辅助
 
 ## 关于
-* 该仓库 👉 [模拟器端「决斗之城」挂机助手](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
-    * 属于创造 ⊶ 👉[本科 创造](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations)
-        * 属于生涯 ⊂ 👉[本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
-    * 采用语言 ⊷ 👉[易语言](https://www.eyuyan.com)
-        * 也被项目采用 ⊶ 👉[星尘弹弹堂「全平台辅助」](https://gitee.com/ChenZhu-Xie/Stardust_DDTank)
-* English「README」ⓔ 👉 [The emulator end「Hang-up Assist」for Game「Dueling City」](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
+* 该仓库 👉 [模拟器端[「决斗之城」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)挂机助手](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
+    * 属于创造 ⊶ 👉 [本科 创造](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations)
+        * 属于生涯 ⊂ 👉 [本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
+    * 采用语言 ⊷ 👉 [易语言](https://www.eyuyan.com)
+        * 也被项目采用 ⊶ 👉 [星尘[弹弹堂](https://www.ddtank.com)「全平台辅助」](https://gitee.com/ChenZhu-Xie/Stardust_DDTank)
+* English「README」ⓔ 👉 [The emulator end「Hang-up Assist」for Game[「Dueling City」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
 
 ## 介绍
 * 模拟器端[「决斗之城」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)——「山寨 游戏王」的「挂机助手」
@@ -21,16 +21,17 @@
     * 自动匹配：玩家、NPC
     * 查看程序阶段：实时了解辅助正在做什么
     * 防掉线：断线自动重连机制
-    * 叠加记录：每次关闭程序，输出本次挂机收益表到日志 rulesjd.ini
+    * 叠加记录：每次关闭程序，增量式输出本次挂机收益表到日志 rulesjd.ini
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/master/img/收益情况.png "Hang-up Revenue") -->
 ![fig](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/raw/master/img/收益情况.png "挂机一晚上 收益情况")
 
-<!-- ## 实施
-1. 演讲 ppt 含视频
-    * 要播放视频，需要进入「Presentations」目录下的「子目录」中查看 ppt
-2. 学业水平 含「随时间演化」的切片/断面
-    * 需要进入「Total_Grades」文件夹的「子文件夹」中查看 相关文件 -->
+## 实施
+1. 打开 [决斗之城挂机辅助.exe](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/tree/master/决斗之城挂机辅助.exe)
+    * 它会自动居右
+2. 在打开了[「夜神模拟器」](https://www.yeshen.com/)的情况下，点击辅助的“启动”按钮
+    * 确保屏幕中间无遮挡，直接就是「模拟器」
+        * 辅助会检查该窗口
 
 ## 历史
 * 该项目 👉 [模拟器端「决斗之城」挂机助手](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
