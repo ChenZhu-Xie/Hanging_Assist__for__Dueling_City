@@ -4,12 +4,14 @@
 # [「决斗之城」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)挂机辅助
 
 ## 关于
-* 该仓库 👉 [模拟器端[「决斗之城」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)挂机助手](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
+<!-- * 该仓库 👉 [模拟器端[「决斗之城」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)挂机助手](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City) -->
+* 该仓库 👉 [模拟器端「决斗之城」挂机助手](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
     * 属于创造 ⊶ 👉 [本科 创造](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations)
         * 属于生涯 ⊂ 👉 [本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
     * 采用语言 ⊷ 👉 [易语言](https://www.eyuyan.com)
-        * 也被项目采用 ⊶ 👉 [星尘[弹弹堂](https://www.ddtank.com)「全平台辅助」](https://gitee.com/ChenZhu-Xie/Stardust_DDTank)
-* English「README」ⓔ 👉 [The emulator end「Hang-up Assist」for Game[「Dueling City」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
+        * 也被项目采用 ⊶ 👉 [星尘弹弹堂「全平台辅助」](https://gitee.com/ChenZhu-Xie/Stardust_DDTank)
+<!-- * English「README」ⓔ 👉 [The emulator end「Hang-up Assist」for Game[「Dueling City」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City) -->
+* English「README」ⓔ 👉 [The emulator end「Hang-up Assist」for Game「Dueling City」](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
 
 ## 介绍
 * 模拟器端[「决斗之城」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)——「山寨 游戏王」的「挂机助手」
@@ -28,8 +30,8 @@
 
 ## 实施
 1. 打开 [决斗之城挂机辅助.exe](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/tree/master/决斗之城挂机辅助.exe)
-    * 它会自动居右
-2. 在打开了[「夜神模拟器」](https://www.yeshen.com/)的情况下，点击辅助的“启动”按钮
+    * 它会自动居左
+2. 在打开了[「夜神模拟器」](https://www.yeshen.com/)的情况下，点击辅助的「启动」按钮
     * 确保屏幕中间无遮挡，直接就是「模拟器」
         * 辅助会检查该窗口
 

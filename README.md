@@ -3,12 +3,15 @@
 # 「Hanging Assist」for[「Dueling City」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)
 
 ## About
-* This repo 👉 [The emulator end「Hang-up Assist」for Game[「Dueling City」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
+<!-- * This project 👉 [The emulator end「Hang-up Assist」for Game[「Dueling City」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City) -->
+* This project 👉 [The emulator end「Hang-up Assist」for Game「Dueling City」](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
     * Belongs to creation ⊷ 👉 [undergraduate creations](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations)
         * Belongs to career ⊂ 👉 [undergraduate activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
     * Adopt language ⊷ 👉[「EPL - Easier Programming Language」](https://www.eyuyan.com)
-        * Also adopted by project ⊶ 👉 [Stardust [DDTank](https://www.ddtank.com) Multi-terminal Auxiliary-tools](https://github.com/ChenZhu-Xie/Stardust_DDTank)
-* 中文「自述文档」㊥ 👉[[「决斗之城」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)挂机辅助](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
+        <!-- * Also adopted by project ⊶ 👉 [Stardust [DDTank](https://www.ddtank.com) Multi-terminal Auxiliary-tools](https://github.com/ChenZhu-Xie/Stardust_DDTank) -->
+        * Also adopted by project ⊶ 👉 [Stardust-DDTank Multi-terminal Auxiliary-tools](https://github.com/ChenZhu-Xie/Stardust_DDTank)
+<!-- * 中文「自述文档」㊥ 👉[[「决斗之城」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)挂机辅助](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City) -->
+* 中文「自述文档」㊥ 👉[「决斗之城」挂机辅助](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
 
 ## Description
 * The emulator end「Hang-up Assist」for Game[「Dueling City」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)——「Knock-off Yu-Gi-Oh」
@@ -26,7 +29,7 @@
 
 ## Inplementation
 1. Run [The「Hang-up Assist」for Game「Dueling City」.exe](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/tree/master/决斗之城挂机辅助.exe)
-    * It will automatically move to the right
+    * It will automatically move to the left
 2. When[「Night God Simulator」](https://www.yeshen.com/)is turned on, click the Auxiliary's「Start」button
     * Ensure that there is no obstruction in the middle of the screen, which is directly the「Emulator」
         * The auxiliary will check the window
