@@ -14,7 +14,7 @@
 * 中文「自述文档」㊥ 👉[「决斗之城」挂机辅助](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
 
 ## Description
-* The emulator end「Hang-up Assist」for Game[「Dueling City」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)——「Knock-off Yu-Gi-Oh」
+* The emulator end「Hang-up Assist」for Game[「Dueling City」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)——「Knock-off [Yu-Gi-Oh](https://www.yugioh-card.com)」
     * Adapted to the[「Night God Simulator」](https://www.yeshen.com/)
     * The capture seems to be pixel level, not robust enough
     * May not be applicable if「Personal resolution changes」or「official icon updates」
