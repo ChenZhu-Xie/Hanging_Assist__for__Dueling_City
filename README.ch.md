@@ -1,5 +1,5 @@
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/master/img/软件界面.png "「Hang-up Assist」for Game「Dueling City」") -->
-![fig](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/raw/master/img/软件界面.png "决斗之城 辅助软件 界面")
+![fig](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/raw/master/img/辅助运行时_20200411_230151.png "决斗之城 辅助软件 运行时")
 
 # [「决斗之城」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)挂机辅助
 
@@ -26,7 +26,7 @@
     * 叠加记录：每次关闭程序，增量式输出本次挂机收益表到日志 rulesjd.ini
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/master/img/收益情况.png "Hang-up Revenue") -->
-![fig](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/raw/master/img/收益情况.png "挂机一晚上 收益情况")
+![fig](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/raw/master/img/效果_20200331_192733.png "挂机收益")
 
 ## 实施
 1. 打开 [决斗之城挂机辅助.exe](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/tree/master/决斗之城挂机辅助.exe)
