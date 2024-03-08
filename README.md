@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/master/img/辅助运行时_20200411_230151.png "Interface of「Hang-up Assist」for Game「Dueling City」")
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/master/img/辅助运行时_20200411_230151.jpg "Interface of「Hang-up Assist」for Game「Dueling City」")
 
 # 「Hanging Assist」for[「Dueling City」](https://tieba.baidu.com/f?kw=%E5%86%B3%E6%96%97%E4%B9%8B%E5%9F%8E&ie=utf-8&tp=0)
 
@@ -25,7 +25,7 @@
     * Anti-disconnection: Reconnection mechanism
     * Stackable record: Every time the program is closed, incrementally output the profit table for this hang up to the log rulesjd.ini
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/master/img/效果_20200331_192733.png "Hang-up Revenue")
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/master/img/效果_20200331_192733.jpg "Hang-up Revenue")
 
 ## Inplementation
 1. Run [The「Hang-up Assist」for Game「Dueling City」.exe](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City/tree/master/决斗之城挂机辅助.exe)
